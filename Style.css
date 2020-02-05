@@ -1,0 +1,43 @@
+h1{
+  text-align: center;
+  color: black;
+}
+
+p{
+  text-align:center;
+  font-size: 20px;
+}
+
+.bilde{
+  width: 527px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: black;
+  border-width: 8px;
+  border-style: solid;
+  border-radius: 20px;
+}
+
+.underskrift{
+  font-family:serif;
+  font-weight: bold;
+  color: gray;
+  font-size: 20px;
+margin-top: 1px;
+}
+
+.sitat{
+  font-size: 35px;
+  }
+
+.nettside{
+  margin-left: 47%;
+  font-style: italic;
+  color: green;
+  }
+
+  body{
+    background-color: lightblue;
+    font-family: fantasy;
+      }
